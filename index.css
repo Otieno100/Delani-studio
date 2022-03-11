@@ -33,3 +33,20 @@ border-color: #fff;
     /* margin-bottom: 200px; */
     
 }
+
+
+body {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+    /* font-size: 14px; */
+    /* line-height: 1.5; */
+    /* color: var(--color-fg-default); */
+    /* background-color: var(--color-canvas-default); */
+}
+
+.card-1{
+font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+font-size: 14px;
+line-height: 1.5;
+color: var(--color-fg-default);
+background-color: var(--color-canvas-default);
+}
