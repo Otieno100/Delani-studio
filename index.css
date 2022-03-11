@@ -1,0 +1,35 @@
+.container-fluid-sm{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true");
+}
+
+.bg-image {
+    position: relative;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;}
+
+.test{
+
+text-align: center;
+font-size: 1.5em;
+margin-top: 460px;
+font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+
+.i-circle {
+    /* border: solid; */
+border-color: #fff;
+    color: #fff;
+    /* padding: 2.5px 0px;/ */
+    /* border-radius: 80%; */
+    font-size: 35px;
+    text-align: center;
+    /* margin-bottom: 200px; */
+    
+}
