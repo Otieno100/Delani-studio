@@ -49,4 +49,20 @@ font-size: 14px;
 line-height: 1.5;
 color: var(--color-fg-default);
 background-color: var(--color-canvas-default);
+height: 30vh;
+width: 100%;
+background-repeat: no-repeat;
+display: flex;
+justify-content: center;
 }
+
+
+.Box-header {
+    padding: 16px;
+    margin: -1px -1px 0;
+    background-color: var(--color-canvas-subtle);
+    border-color: var(--color-border-default);
+    border-style: solid;
+    border-width: 1px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;}
