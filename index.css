@@ -72,9 +72,91 @@ justify-content: center;
     /* trial */
 
 
-#showgit s{
+#show{
 text-align: center;
 word-wrap: normal;
 display: none;
+position: absolute;
+text-align: center;
+justify-content: center;
+word-wrap: inherit;
+display: none;
+/* border: solid; */
+position: absolute;
+margin-bottom: 560px;
+position: relative;
 
 }
+
+.test-1{
+
+color: #fff;
+position: absolute;
+font-size: 25px;
+/* text-align: center; */
+ margin-top:100px;
+ margin-left: 45px;
+ display: none;
+ /* position: relative; */
+ /* margin-bottom: 100px; */
+ display: none;
+ display: flex;
+ text-align: center;
+ justify-content: center;
+ /* opacity: 0.25sec; */
+
+
+}
+
+.hovwe-overlay1:hover{
+
+    opacity: 0;
+}
+
+
+
+.img-fluid1{
+flex-wrap: wrap;
+position: inherit;
+background-color: #fff;
+/* opacity: 0.25; */
+
+
+}
+
+
+
+#show-1{
+    text-align: center;
+    word-wrap: normal;
+    display: none;
+    position: absolute;
+    text-align: center;
+    justify-content: center;
+    word-wrap: inherit;
+    display: none;
+    /* border: solid; */
+    position: absolute;
+    margin-bottom: 610px;
+    position: relative;
+    background-color: #fff;
+    }
+
+
+
+
+#show-2{
+    text-align: center;
+    word-wrap: normal;
+    display: none;
+    position: absolute;
+    text-align: center;
+    justify-content: center;
+    word-wrap: inherit;
+    display: none;
+    /* border: solid; */
+    position: absolute;
+    margin-bottom: 560px;
+    position: relative;
+    background-color: #fff;
+    }
