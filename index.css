@@ -72,3 +72,9 @@ justify-content: center;
     /* trial */
 
 
+#showgit s{
+text-align: center;
+word-wrap: normal;
+display: none;
+
+}
