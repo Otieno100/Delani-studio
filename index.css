@@ -224,3 +224,69 @@ margin-bottom: 200px;
 height: 150px;
 
     }
+
+
+
+    /*  */
+
+
+
+ #name{
+        background-color: transparent;
+    }
+    #mail{
+        background-color: transparent;
+        color: #fff;
+    }
+    .form{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        color: #fff;
+    }
+    .message{
+        position: absolute;
+        width: 50vw;
+        height: 50vh;
+        padding: 0px;
+        color: white;
+        position: relative;
+        justify-content: center;
+        background-color: transparent;
+    }
+
+
+
+
+
+
+
+
+    /*  */
+
+
+
+    .form-1{
+
+/* position: absolute; */
+margin-bottom: 500px;
+color: #fff;
+border-color: #fff;
+
+
+    }
+
+
+    .mt-4{
+        color: #fff;
+    border-color: #fff;
+    }
+
+    #name{
+
+        color: #fff;
+        border: #fff;
+    }

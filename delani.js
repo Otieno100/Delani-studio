@@ -63,3 +63,16 @@ $(document).ready(function(){
         })
         
         })
+
+
+
+        // 
+
+
+// form alert
+$("#btn").click(function(){
+    var name = document.getElementById("name").value;
+    alert("Hello "+ name +", We have received your message. Thank you!");})
+
+
+        // 
