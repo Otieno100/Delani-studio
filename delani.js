@@ -48,3 +48,18 @@ $(document).ready(function(){
         })
         
         })
+
+
+
+
+        // portfolio section
+
+    $(document).ready(function(){
+
+        $(".definition").mouseover(function(){
+        
+        $(".middle").show()
+        
+        })
+        
+        })

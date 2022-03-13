@@ -88,25 +88,36 @@ position: relative;
 
 }
 
-.test-1{
+/* #hover{ */
 
 color: #fff;
-position: absolute;
+/* position: absolute; */
 font-size: 25px;
 /* text-align: center; */
- margin-top:100px;
- margin-left: 45px;
- display: none;
+ /* margin-top:100px; */
+ /* margin-left: 45px; */
+ /* display: none; */
  /* position: relative; */
  /* margin-bottom: 100px; */
- display: none;
+ /* display: none; */
  display: flex;
  text-align: center;
  justify-content: center;
- /* opacity: 0.25sec; */
+ opacity: 0.25sec;
 
 
 }
+
+
+.test-4{
+    color: #fff;
+    position: absolute;
+    font-size: 100px;
+    border: solid red;
+
+}
+
+
 
 .hovwe-overlay1:hover{
 
@@ -159,4 +170,46 @@ background-color: #fff;
     margin-bottom: 560px;
     position: relative;
     background-color: #fff;
+    }
+
+
+
+/* #show-3{ */
+    text-align: center;
+    word-wrap: normal;
+    display: none;
+    position: absolute;
+    text-align: center;
+    justify-content: center;
+    word-wrap: inherit;
+    display: none;
+    /* border: solid; */
+    position: absolute;
+    margin-bottom: 560px;
+    position: relative;
+    background-color: #fff;
+    }
+
+
+
+    #trapezoid{
+
+        color: #fff;
+        font-size: 100px;
+        border: solid;
+
+    }
+
+    .definition{
+
+    border: solid;
+    justify-content: center;
+    text-align: center;
+    }
+
+
+    .middle{
+display: none;
+color: #fff;
+
     }
