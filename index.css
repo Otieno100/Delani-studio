@@ -209,7 +209,18 @@ background-color: #fff;
 
 
     .middle{
+        display: flex;
 display: none;
 color: #fff;
+border: solid;
+justify-content: center;
+align-items: center;
+width: auto;
+position: absolute;
+margin-right: 50px;
+margin-bottom: 200px;
+/* background-color: #fff; */
+/* border-radius: 20px; */
+height: 150px;
 
     }
